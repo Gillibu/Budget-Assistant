@@ -3,4 +3,5 @@ This project aims to assist the youth of today in budgeting with ease with a use
 
 # What I learned
 •	How to create an algorithm
+
 •	How to use arrays, lists, dictionaries etc in Python
